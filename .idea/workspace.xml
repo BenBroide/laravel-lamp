@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="823adb8d-2dd0-4999-a863-f9b780387796" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/www/hhhh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/bebroide.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-entrypoint.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/hi.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess.www" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess.www" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess.www.public" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess.www.public" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/hhhh.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +32,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -52,10 +60,18 @@
       <workItem from="1593911873841" duration="330000" />
       <workItem from="1593912216115" duration="7000" />
       <workItem from="1593912395995" duration="4386000" />
+      <workItem from="1593922077158" duration="7944000" />
+      <workItem from="1593936036487" duration="2926000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="299" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593936852362">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="399" y="299" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1593936852362" />
   </component>
 </project>

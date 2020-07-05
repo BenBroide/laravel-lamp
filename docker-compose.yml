@@ -1,4 +1,4 @@
-version: "3.1"
+version: "3.8"
 services:
     www:
         build: .
@@ -23,7 +23,7 @@ services:
         volumes:
             - ./dump:/docker-entrypoint-initdb.d
             - ./conf:/etc/mysql/conf.d
-            - persistent:/var/lib/mysql
+            - data-volume:/var/lib/mysql
         networks:
             - default
     phpmyadmin:
@@ -37,4 +37,4 @@ services:
             MYSQL_PASSWORD: test
             MYSQL_ROOT_PASSWORD: test
 volumes:
-    persistent:
+    data-volume:
